@@ -9,4 +9,7 @@ https://user-images.githubusercontent.com/97248231/193043203-cb92a1dc-6dd8-4256-
 
 Obs.: Como a pesquisa é referente ao atual momento do status no BD pode contém dados vazios
 
+# Atualização
+
+Desenvolvendo para que futuramente o projeto faça inserção de dados em um novo BD.
 
